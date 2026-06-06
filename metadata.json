@@ -1,0 +1,8 @@
+{
+  "name": "Magic Finger",
+  "description": "AI-powered bubble shooter with gesture-controlled gameplay and real-time strategic analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
